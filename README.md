@@ -33,8 +33,18 @@
 ---
 
 ## 📁 Project Structure
-
-src/ ├── components/ │ ├── Orders.jsx │ ├── Cart.jsx │ ├── Products.jsx │ ├── Auth/ │ ├── Loading.jsx │ └── ... ├── Context/ │ └── CartContext.js ├── hooks/ # Custom hooks and query functions ├── services/ # API handlers ├── App.jsx └── main.jsx
+├── App.jsx └── main.jsx
+├── Context/ 
+       │ └── CartContext.js 
+src/ ├── components/ 
+       │ ├── Orders.jsx 
+       │ ├── Cart.jsx 
+       │ ├── Products.jsx 
+       │ ├── Auth/ 
+       │ ├── Loading.jsx 
+       │ └── ... 
+   
+      
 
 
 🛠️ Getting Started
