@@ -32,22 +32,7 @@
 
 ---
 
-## 📁 Project Structure
-├── App.jsx └── main.jsx
-├── Context/ 
-       │ └── CartContext.js 
-src/ ├── components/ 
-       │ ├── Orders.jsx 
-       │ ├── Cart.jsx 
-       │ ├── Products.jsx 
-       │ ├── Auth/ 
-       │ ├── Loading.jsx 
-       │ └── ... 
-   
-      
-
-
-🛠️ Getting Started
+## 🛠️ Getting Started
 1. Clone the repository
 git clone https://github.com/WalaaSoudy/E-Commerce.git
 cd E-Commerce
